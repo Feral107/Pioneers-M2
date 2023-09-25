@@ -9,7 +9,7 @@
     margin: 0px;
     padding: 0px;
     display: block;
-    width: 50%;
+    width: 40%;
     margin: 0px auto;
 }
 body{
@@ -35,7 +35,7 @@ h1{
 }
 h4{
     text-align: center;
-    font-size: 10px;
+    font-size: 15px;
 }
 hr{
     margin: 10px 0;
@@ -75,7 +75,7 @@ button{
     color: #fff;
     border: 1px solid #17a2b8;
     cursor: pointer;
-    width: 30%;
+    width: 20%;
     align-self: center;
 
 }
